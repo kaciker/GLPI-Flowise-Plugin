@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+    <name>Flowise Chat LLM</name>
+    <version>1.0.0</version>
+    <author>Marcos Hidalgo</author>
+    <license>GPLv3+</license>
+    <homepage>https://www.hutchinson.com/</homepage>
+    <minGlpiVersion>10.0</minGlpiVersion>
+</plugin>
