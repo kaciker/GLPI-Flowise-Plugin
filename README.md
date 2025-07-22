@@ -41,7 +41,7 @@ plugins
     * Message sending functionality (via `ENTER` key or send button).
     * Connection with Flowise via its REST API.
     * Persistence of conversation memory per user using a `sessionId`.
-* **`js/img/logo-hutchinson-white.png`**: The image file for the white logo displayed on the assistant's button.
+* **`js/img/logo-logo-white.png`**: The image file for the white logo displayed on the assistant's button.
 
 ## ⚙️ Flowise Environment Configuration
 
