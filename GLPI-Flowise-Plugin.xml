@@ -27,7 +27,7 @@
    </versions>
    <langs>
       <lang>en_US</lang>
-      </langs>
+   </langs>
    <license>GPLv3+</license>
    <tags>
       <en>
@@ -41,5 +41,5 @@
    </tags>
    <screenshots>
       <screenshot>https://raw.githubusercontent.com/kaciker/GLPI-Flowise-Plugin/main/screenshots/screenshot1.png</screenshot>
-      </screenshots>
+   </screenshots>
 </root>
