@@ -2,7 +2,7 @@
    <name>Flowise Chat LLM</name>
    <key>flowisechat</key>
    <state>stable</state>
-   <logo>https://github.com/YOUR_GITHUB_USER/YOUR_REPO_NAME/raw/main/plugins/flowisechat/js/img/logo-hutchinson-white.png</logo>
+   <logo>https://github.com/kaciker/GLPI-Flowise-Plugin/raw/main/plugins/flowisechat/js/img/logo-hutchinson-white.png</logo>
    <description>
       <short>
          <en>A floating chatbot assistant for GLPI, integrating with Flowise or Ollama to enhance user support and streamline IT service management.</en>
@@ -11,10 +11,10 @@
          <en>The GLPI iA-sistant Plugin provides a floating chatbot assistant for GLPI, integrating with Flowise or Ollama. It helps users find answers before opening tickets, leverages RAG for documentation, maintains conversation memory, and features a customizable corporate-branded button. Future extensions include automated ticket creation, conversation logging, and urgency classification.</en>
       </long>
    </description>
-   <homepage>https://github.com/kaciker/</homepage>
-   <download>https://github.com/kaciker/GLPI-AI-Plugin/releases</download>
-   <issues>https://github.com/kaciker/GLPI-AI-Plugin/issues</issues>
-   <readme>https://github.com/kaciker/GLPI-AI-Plugin/blob/main/plugins/flowisechat/README.md</readme>
+   <homepage>https://github.com/kaciker/GLPI-Flowise-Plugin</homepage>
+   <download>https://github.com/kaciker/GLPI-Flowise-Plugin/releases</download>
+   <issues>https://github.com/kaciker/GLPI-Flowise-Plugin/issues</issues>
+   <readme>https://github.com/kaciker/GLPI-Flowise-Plugin/blob/main/plugins/flowisechat/README.md</readme>
    <authors>
       <author>kaciker</author>
    </authors>
@@ -22,7 +22,7 @@
       <version>
          <num>3.0.4</num>
          <compatibility>10.0</compatibility>
-         <download_url>https://github.com/kaciker/GLPI-AI-Plugin/releases/download/v3.0.4/glpi-flowisechat-3.0.4.tar.bz2</download_url>
+         <download_url>https://github.com/kaciker/GLPI-Flowise-Plugin/releases/download/v3.0.4/glpi-flowisechat-3.0.4.tar.bz2</download_url>
       </version>
    </versions>
    <langs>
@@ -40,6 +40,6 @@
       </en>
    </tags>
    <screenshots>
-      <screenshot>https://github.com/YOUR_GITHUB_USER/YOUR_REPO_NAME/raw/main/screenshots/screenshot1.png</screenshot>
+      <screenshot>https://github.com/kaciker/GLPI-Flowise-Plugin/raw/main/screenshots/screenshot1.png</screenshot>
       </screenshots>
 </root>
