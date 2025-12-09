@@ -7,7 +7,7 @@ The GLPI iA-sistant Plugin provides a floating chatbot assistant for GLPI, integ
 * **Pre-ticket Resolution:** Helps users find answers to common questions before needing to open a ticket, reducing helpdesk workload.
 * **Integrated Documentation (RAG):** Leverages Retrieval Augmented Generation (RAG) to consult integrated documentation, providing accurate and relevant responses.
 * **Conversation Memory:** Maintains a conversation history with session memory, offering a more personalized and continuous user experience.
-* **Customizable Aesthetics:** Features a corporate-branded floating button (e.g., Hutchinson logo on a red button) for a consistent user interface.
+* **Customizable Aesthetics:** Features a corporate-branded floating button (e.g., Company logo on a red button) for a consistent user interface.
 * **Automated Ticket Creation:** Future extension to automatically create tickets in GLPI during a conversation's second phase, streamlining the support workflow.
 
 ## 🚀 Plugin Structure
