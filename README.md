@@ -25,7 +25,7 @@ plugins
 ├── js
 │   ├── flowisechat.js
 │   └── img
-│       └── logo-hutchinson-white.png
+│       └── logo-company-white.png
 ├── manifest.xml
 ├── README.md
 └── setup.php
